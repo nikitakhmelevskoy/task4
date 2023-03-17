@@ -16,4 +16,4 @@ def process_text(input_file, output_file):
 
 
 # Example usage
-process_text('input_1.txt', 'output_1.txt')
+process_text('tests/input_1.txt', 'tests/output_1.txt')
